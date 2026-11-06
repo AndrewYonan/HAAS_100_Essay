@@ -1,0 +1,225 @@
+#container {
+    background-color: #eee;
+    margin: auto;
+    width: 82%;
+    justify-content: center;
+}
+
+
+body {
+    background-color: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    border-bottom: #111 0.125em solid;
+}
+
+
+p {
+    text-indent: 70px;
+}
+
+a:hover {
+    border-bottom: #111 0.17em solid;
+}
+
+#brand-name {
+    background: linear-gradient(to right, #ff9010, #ffe787);
+    box-shadow: -5px -5px 20px rgba(0, 0, 0, 0.25);
+    color:#fff;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+    margin: 30px;
+    word-spacing: 0.6rem;
+}
+
+.pull-quote {
+    margin-top: -50px;
+    margin-bottom: 40px;
+    text-align: center;
+    width:60%;
+    margin-right: auto;
+    margin-left: auto;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 28px;
+    color: #666;
+}
+
+#article {
+    background-color: #fff;
+    color: #222;
+    font-family:'Times New Roman', Times, serif;
+    margin:auto;
+    width: 90%;
+    padding-bottom: 100px;
+}
+
+#article-header {
+    margin-top:50px;
+    border-left: 5px solid #444;
+    background-color: #fff;
+    text-align: center;
+    padding: 30px;
+    box-shadow: -5px -5px 100px rgba(0, 0, 0, 0.25);
+    margin-bottom: 20px;
+    color: #444;
+}
+
+#article-title {
+    font-size: 50px;
+    padding: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#article-text-container {
+    box-shadow: -5px -5px 100px rgba(0, 0, 0, 0.25);
+    background-color:#fff;
+    padding: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    border-radius: 13px;
+}
+
+#article-sub-title {
+    margin-top: -10px;
+    font-size: 28px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#article-by-line {
+    color:#888;
+    font-size: 17px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.article-text {
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom:-25px;
+    font-size: 23.8px;
+    color:#444;
+    line-height: 2;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+.image-container {
+    justify-content: center;
+    margin: 20px;
+}
+
+.image-footer {
+    margin: auto;
+    width: 55%;
+}
+
+.image-text {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: #777;
+}
+
+#portrait {
+    display: block;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 130px;
+    width:55%;
+}
+
+#shapes {
+    display: block;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    width:55%;
+}
+
+
+#bibliography {
+    border-radius: 8px;
+    box-shadow: -5px -5px 100px rgba(0, 0, 0, 0.25);
+    margin-bottom: 200px;
+    margin-top: 100px;
+    padding: 50px;
+    background-color: #fff;
+    color: #333;
+    margin-left: -50px;
+    margin-right: -50px;
+}
+
+.bib-element {
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+
+    width:70%;
+    margin: auto;
+}
+
+.bib-info {
+    padding-left: 60px;
+    text-indent: -60px;
+}
+
+#bib-title {
+    margin: 30px;
+    padding: 50px;
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+#author-bio-title {
+    box-shadow: -5px -5px 100px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    padding: 20px;
+    border-left: solid 5px #444;
+    margin-bottom:100px;
+    margin-top:-120px;
+    text-align: center;
+    font-size: 30px;
+    color: #444;
+}
+
+#author-bio-text {
+    margin: auto;
+    width: 90%;
+    line-height: 1.4;
+}
+
+#author-bio {
+    margin-top: 80px;
+    box-shadow: -5px -5px 100px rgba(0, 0, 0, 0.25);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    padding: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color: #666;
+}
+
+#footer {
+    background-color: #bbbbbb33;
+    padding-top: 200px;
+    padding-bottom: 120px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 100px;
+}
+
+#copyright {
+    border-top: solid 1px #555;
+    padding: 50px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
